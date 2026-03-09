@@ -869,5 +869,18 @@
     "start_date_local": "2026-03-06T17:12:21Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-08",
+    "distance": 72724.7,
+    "elevation_gain": 346.0,
+    "id": "17654475424",
+    "moving_time": 10826.0,
+    "name": "#39 Zwift - Kleine Runde auf der Rolle",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-08T20:28:03Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
