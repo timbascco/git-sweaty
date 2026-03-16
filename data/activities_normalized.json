@@ -882,5 +882,18 @@
     "start_date_local": "2026-03-08T20:28:03Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 35965.5,
+    "elevation_gain": 198.0,
+    "id": "17735170309",
+    "moving_time": 4907.0,
+    "name": "Streak",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-15T16:14:00Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
