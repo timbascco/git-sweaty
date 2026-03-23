@@ -908,5 +908,18 @@
     "start_date_local": "2026-03-18T14:35:04Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 31008.1,
+    "elevation_gain": 382.0,
+    "id": "17827549439",
+    "moving_time": 5164.0,
+    "name": "#41 Zwift - Peaky Pav\u00e9 in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-23T12:58:42Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

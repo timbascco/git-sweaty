@@ -629,6 +629,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17769350932",
       "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 12,
+      "name": "#41 Zwift - Peaky Pav\u00e9 in France",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17827549439",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1242,6 +1251,15 @@
           "distance": 101093.0,
           "elevation_gain": 744.0,
           "moving_time": 14419.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17827549439"
+          ],
+          "count": 1,
+          "distance": 31008.1,
+          "elevation_gain": 382.0,
+          "moving_time": 5164.0
         }
       },
       "WeightTraining": {
@@ -1257,7 +1275,7 @@
       }
     }
   },
-  "generated_at": "2026-03-22T15:50:19.217918+00:00",
+  "generated_at": "2026-03-23T17:40:47.699461+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/177445701",
   "repo": "timbascco/git-sweaty",
