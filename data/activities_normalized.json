@@ -921,5 +921,31 @@
     "start_date_local": "2026-03-23T12:58:42Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 30417.0,
+    "elevation_gain": 102.0,
+    "id": "17843839227",
+    "moving_time": 3634.0,
+    "name": "#42 Zwift - Watopia's Waistband in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-24T18:23:11Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 24924.8,
+    "elevation_gain": 156.0,
+    "id": "17852046057",
+    "moving_time": 4864.0,
+    "name": "#43 Tour de Fex",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-25T10:02:29Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

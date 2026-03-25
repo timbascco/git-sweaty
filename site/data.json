@@ -638,6 +638,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17827549439",
       "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 18,
+      "name": "#42 Zwift - Watopia's Waistband in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17843839227",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-25",
+      "hour": 10,
+      "name": "#43 Tour de Fex",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17852046057",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -895,6 +913,15 @@
           "distance": 39306.9,
           "elevation_gain": 206.0,
           "moving_time": 5407.0
+        },
+        "2026-03-25": {
+          "activity_ids": [
+            "17852046057"
+          ],
+          "count": 1,
+          "distance": 24924.8,
+          "elevation_gain": 156.0,
+          "moving_time": 4864.0
         }
       },
       "Tennis": {
@@ -1260,6 +1287,15 @@
           "distance": 31008.1,
           "elevation_gain": 382.0,
           "moving_time": 5164.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "17843839227"
+          ],
+          "count": 1,
+          "distance": 30417.0,
+          "elevation_gain": 102.0,
+          "moving_time": 3634.0
         }
       },
       "WeightTraining": {
@@ -1275,7 +1311,7 @@
       }
     }
   },
-  "generated_at": "2026-03-24T18:08:09.522083+00:00",
+  "generated_at": "2026-03-25T18:10:48.128120+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/177445701",
   "repo": "timbascco/git-sweaty",
