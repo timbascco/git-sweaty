@@ -947,5 +947,18 @@
     "start_date_local": "2026-03-25T10:02:29Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 28843.8,
+    "elevation_gain": 1056.0,
+    "id": "17926047600",
+    "moving_time": 8311.0,
+    "name": "#44 Zwift - Road to Sky in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-31T14:55:54Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
