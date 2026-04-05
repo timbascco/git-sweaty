@@ -960,5 +960,18 @@
     "start_date_local": "2026-03-31T14:55:54Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 84191.0,
+    "elevation_gain": 598.0,
+    "id": "17987585771",
+    "moving_time": 11868.0,
+    "name": "#45 Maserer Pass",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-05T10:14:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
