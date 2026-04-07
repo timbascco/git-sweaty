@@ -674,6 +674,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17987585771",
       "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 14,
+      "name": "#46 Family Tour",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18001937833",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -949,6 +958,15 @@
           "distance": 84191.0,
           "elevation_gain": 598.0,
           "moving_time": 11868.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "18001937833"
+          ],
+          "count": 1,
+          "distance": 45337.9,
+          "elevation_gain": 487.0,
+          "moving_time": 7560.0
         }
       },
       "Tennis": {
@@ -1347,7 +1365,7 @@
       }
     }
   },
-  "generated_at": "2026-04-06T15:38:17.172313+00:00",
+  "generated_at": "2026-04-07T16:05:32.193274+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/177445701",
   "repo": "timbascco/git-sweaty",
