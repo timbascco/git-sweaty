@@ -683,6 +683,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18001937833",
       "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 15,
+      "name": "#47 JB Plattn",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18028598097",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -967,6 +976,15 @@
           "distance": 45337.9,
           "elevation_gain": 487.0,
           "moving_time": 7560.0
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "18028598097"
+          ],
+          "count": 1,
+          "distance": 11660.1,
+          "elevation_gain": 133.0,
+          "moving_time": 1945.0
         }
       },
       "Tennis": {
@@ -1365,7 +1383,7 @@
       }
     }
   },
-  "generated_at": "2026-04-07T16:05:32.193274+00:00",
+  "generated_at": "2026-04-08T16:10:07.465996+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/177445701",
   "repo": "timbascco/git-sweaty",
