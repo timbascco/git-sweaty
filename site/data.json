@@ -710,6 +710,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18154195838",
       "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 6,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18207217309",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18212677343",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1021,6 +1039,16 @@
           "distance": 35102.3,
           "elevation_gain": 259.0,
           "moving_time": 4743.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18207217309",
+            "18212677343"
+          ],
+          "count": 2,
+          "distance": 8246.5,
+          "elevation_gain": 22.0,
+          "moving_time": 1452.0
         }
       },
       "Tennis": {
@@ -1419,7 +1447,7 @@
       }
     }
   },
-  "generated_at": "2026-04-21T16:05:26.499184+00:00",
+  "generated_at": "2026-04-22T16:03:39.060564+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/177445701",
   "repo": "timbascco/git-sweaty",
