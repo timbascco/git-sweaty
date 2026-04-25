@@ -746,6 +746,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18226859206",
       "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 10,
+      "name": "#50 Wei\u00dfbier am Starnberger",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18252873259",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1077,6 +1086,15 @@
           "distance": 8397.9,
           "elevation_gain": 26.0,
           "moving_time": 1524.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18252873259"
+          ],
+          "count": 1,
+          "distance": 85277.6,
+          "elevation_gain": 461.0,
+          "moving_time": 12604.0
         }
       },
       "Tennis": {
@@ -1475,7 +1493,7 @@
       }
     }
   },
-  "generated_at": "2026-04-24T15:59:20.776031+00:00",
+  "generated_at": "2026-04-25T15:32:38.586577+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/177445701",
   "repo": "timbascco/git-sweaty",

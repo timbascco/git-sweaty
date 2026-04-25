@@ -1077,5 +1077,18 @@
     "start_date_local": "2026-04-23T16:58:09Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 85277.6,
+    "elevation_gain": 461.0,
+    "id": "18252873259",
+    "moving_time": 12604.0,
+    "name": "#50 Wei\u00dfbier am Starnberger",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-25T10:51:24Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
