@@ -1116,5 +1116,18 @@
     "start_date_local": "2026-05-23T13:26:44Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 51531.7,
+    "elevation_gain": 220.0,
+    "id": "18634982779",
+    "moving_time": 6743.0,
+    "name": "#53 pre Wei\u00dfbier Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-24T12:07:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

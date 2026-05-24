@@ -773,6 +773,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18622913664",
       "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 12,
+      "name": "#53 pre Wei\u00dfbier Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18634982779",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1131,6 +1140,15 @@
           "distance": 57605.1,
           "elevation_gain": 232.0,
           "moving_time": 9104.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18634982779"
+          ],
+          "count": 1,
+          "distance": 51531.7,
+          "elevation_gain": 220.0,
+          "moving_time": 6743.0
         }
       },
       "Tennis": {
@@ -1529,7 +1547,7 @@
       }
     }
   },
-  "generated_at": "2026-05-23T15:55:43.347843+00:00",
+  "generated_at": "2026-05-24T15:55:10.511960+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/177445701",
   "repo": "timbascco/git-sweaty",
