@@ -1142,5 +1142,31 @@
     "start_date_local": "2026-05-29T11:30:12Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 10982.9,
+    "elevation_gain": 29.0,
+    "id": "18717316201",
+    "moving_time": 1859.0,
+    "name": "#55 Zu Tommi",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-30T10:41:05Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 131284.0,
+    "elevation_gain": 813.0,
+    "id": "18717332217",
+    "moving_time": 18050.0,
+    "name": "#55 Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-30T11:16:29Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
