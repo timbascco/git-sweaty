@@ -818,6 +818,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18783502968",
       "year": 2026
+    },
+    {
+      "date": "2026-06-08",
+      "hour": 8,
+      "name": "#57 Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18833990095",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1213,6 +1222,15 @@
           "distance": 53229.4,
           "elevation_gain": 226.0,
           "moving_time": 7086.0
+        },
+        "2026-06-08": {
+          "activity_ids": [
+            "18833990095"
+          ],
+          "count": 1,
+          "distance": 55664.2,
+          "elevation_gain": 573.0,
+          "moving_time": 9318.0
         }
       },
       "Tennis": {
@@ -1611,7 +1629,7 @@
       }
     }
   },
-  "generated_at": "2026-06-07T16:06:49.233720+00:00",
+  "generated_at": "2026-06-08T17:43:30.951761+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/177445701",
   "repo": "timbascco/git-sweaty",
