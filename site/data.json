@@ -836,6 +836,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18887851530",
       "year": 2026
+    },
+    {
+      "date": "2026-06-14",
+      "hour": 19,
+      "name": "#59 Wm und Zwift - Tempus Fugit in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18921456566",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1632,6 +1641,15 @@
           "distance": 28843.8,
           "elevation_gain": 1056.0,
           "moving_time": 8311.0
+        },
+        "2026-06-14": {
+          "activity_ids": [
+            "18921456566"
+          ],
+          "count": 1,
+          "distance": 50437.4,
+          "elevation_gain": 79.0,
+          "moving_time": 5714.0
         }
       },
       "WeightTraining": {
@@ -1647,7 +1665,7 @@
       }
     }
   },
-  "generated_at": "2026-06-14T16:16:12.209321+00:00",
+  "generated_at": "2026-06-15T19:00:24.800227+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/177445701",
   "repo": "timbascco/git-sweaty",
