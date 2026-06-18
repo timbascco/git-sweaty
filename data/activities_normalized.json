@@ -1220,5 +1220,18 @@
     "start_date_local": "2026-06-14T19:14:13Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 18677.8,
+    "elevation_gain": 1029.0,
+    "id": "18962231273",
+    "moving_time": 7343.0,
+    "name": "#60 Zwift - Climb Portal: Col de la Croix de Fer at 100% Elevation in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-17T18:56:53Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
