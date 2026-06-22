@@ -1246,5 +1246,31 @@
     "start_date_local": "2026-06-19T08:07:40Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 7829.6,
+    "elevation_gain": 5.0,
+    "id": "19014016749",
+    "moving_time": 1388.0,
+    "name": "Fu\u00dfball schauen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-21T20:03:06Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 9523.1,
+    "elevation_gain": 19.0,
+    "id": "19016525841",
+    "moving_time": 2065.0,
+    "name": "Night Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-22T01:38:17Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

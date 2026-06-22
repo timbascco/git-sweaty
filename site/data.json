@@ -863,6 +863,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18980949513",
       "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 20,
+      "name": "Fu\u00dfball schauen",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19014016749",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-22",
+      "hour": 1,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19016525841",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1276,6 +1294,24 @@
           "distance": 31566.1,
           "elevation_gain": 168.0,
           "moving_time": 4709.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19014016749"
+          ],
+          "count": 1,
+          "distance": 7829.6,
+          "elevation_gain": 5.0,
+          "moving_time": 1388.0
+        },
+        "2026-06-22": {
+          "activity_ids": [
+            "19016525841"
+          ],
+          "count": 1,
+          "distance": 9523.1,
+          "elevation_gain": 19.0,
+          "moving_time": 2065.0
         }
       },
       "Tennis": {
@@ -1701,7 +1737,7 @@
       }
     }
   },
-  "generated_at": "2026-06-21T16:25:24.284591+00:00",
+  "generated_at": "2026-06-22T18:39:36.666328+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/177445701",
   "repo": "timbascco/git-sweaty",
