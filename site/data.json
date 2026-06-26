@@ -881,6 +881,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19016525841",
       "year": 2026
+    },
+    {
+      "date": "2026-06-25",
+      "hour": 21,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19065908203",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-26",
+      "hour": 1,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19068119800",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1312,6 +1330,24 @@
           "distance": 9523.1,
           "elevation_gain": 19.0,
           "moving_time": 2065.0
+        },
+        "2026-06-25": {
+          "activity_ids": [
+            "19065908203"
+          ],
+          "count": 1,
+          "distance": 9230.1,
+          "elevation_gain": 10.0,
+          "moving_time": 1597.0
+        },
+        "2026-06-26": {
+          "activity_ids": [
+            "19068119800"
+          ],
+          "count": 1,
+          "distance": 9350.4,
+          "elevation_gain": 18.0,
+          "moving_time": 2016.0
         }
       },
       "Tennis": {
@@ -1737,7 +1773,7 @@
       }
     }
   },
-  "generated_at": "2026-06-25T17:03:52.304741+00:00",
+  "generated_at": "2026-06-26T16:55:35.953448+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/177445701",
   "repo": "timbascco/git-sweaty",
