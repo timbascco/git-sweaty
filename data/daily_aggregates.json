@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T16:27:53.871526+00:00",
+  "generated_at": "2026-07-29T16:15:26.901282+00:00",
   "years": {
     "2025": {
       "Ride": {
@@ -475,6 +475,15 @@
           "distance": 56213.2,
           "elevation_gain": 201.0,
           "moving_time": 7840.0
+        },
+        "2026-07-29": {
+          "activity_ids": [
+            "19511899073"
+          ],
+          "count": 1,
+          "distance": 49758.6,
+          "elevation_gain": 217.0,
+          "moving_time": 6671.0
         }
       },
       "Tennis": {

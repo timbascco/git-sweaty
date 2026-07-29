@@ -935,6 +935,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19292502301",
       "year": 2026
+    },
+    {
+      "date": "2026-07-29",
+      "hour": 9,
+      "name": "#64 Comeback",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19511899073",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1412,6 +1421,15 @@
           "distance": 56213.2,
           "elevation_gain": 201.0,
           "moving_time": 7840.0
+        },
+        "2026-07-29": {
+          "activity_ids": [
+            "19511899073"
+          ],
+          "count": 1,
+          "distance": 49758.6,
+          "elevation_gain": 217.0,
+          "moving_time": 6671.0
         }
       },
       "Tennis": {
@@ -1837,7 +1855,7 @@
       }
     }
   },
-  "generated_at": "2026-07-28T16:27:53.876223+00:00",
+  "generated_at": "2026-07-29T16:15:26.907899+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/177445701",
   "repo": "timbascco/git-sweaty",
