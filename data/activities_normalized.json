@@ -1363,5 +1363,18 @@
     "start_date_local": "2026-07-29T09:01:42Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 25393.8,
+    "elevation_gain": 26.0,
+    "id": "19549531142",
+    "moving_time": 3532.0,
+    "name": "#65 Nightride mit Flo",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-01T02:07:36Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
