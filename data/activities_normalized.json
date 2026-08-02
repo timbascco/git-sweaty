@@ -1376,5 +1376,18 @@
     "start_date_local": "2026-08-01T02:07:36Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 52983.3,
+    "elevation_gain": 224.0,
+    "id": "19565300843",
+    "moving_time": 7126.0,
+    "name": "#66 Kleine Runde am Morgen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-02T07:45:45Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
