@@ -962,6 +962,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19565300843",
       "year": 2026
+    },
+    {
+      "date": "2026-08-03",
+      "hour": 6,
+      "name": "#67 30er Schnitt zu Ehren der \ud83e\udef4\ud83c\udffc\ud83e\udef4\ud83c\udffc Fahrt",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19578599350",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1466,6 +1475,15 @@
           "distance": 52983.3,
           "elevation_gain": 224.0,
           "moving_time": 7126.0
+        },
+        "2026-08-03": {
+          "activity_ids": [
+            "19578599350"
+          ],
+          "count": 1,
+          "distance": 47337.2,
+          "elevation_gain": 228.0,
+          "moving_time": 5650.0
         }
       },
       "Tennis": {
@@ -1891,7 +1909,7 @@
       }
     }
   },
-  "generated_at": "2026-08-02T15:52:58.141407+00:00",
+  "generated_at": "2026-08-03T17:04:36.877302+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/177445701",
   "repo": "timbascco/git-sweaty",
