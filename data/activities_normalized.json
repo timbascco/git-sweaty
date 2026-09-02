@@ -1454,5 +1454,18 @@
     "start_date_local": "2026-08-26T17:36:58Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 3439.2,
+    "elevation_gain": 0.0,
+    "id": "19997223038",
+    "moving_time": 1406.0,
+    "name": "#72 Night Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-01T23:51:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
